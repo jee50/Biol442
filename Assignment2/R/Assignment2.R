@@ -24,4 +24,4 @@ lat_long <- function(input, split, hemisphere) {
 
 
 
-##use data function to add to package
+##edit to local repository
